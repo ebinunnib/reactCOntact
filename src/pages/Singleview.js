@@ -45,7 +45,6 @@ function Singleview() {
 
     return (
         <div className='p-1'>
-            <h1 style={{textAlign:'center'}}>{singleData.name}</h1>
             <Row >
 
                 <Col className='d-flex justify-content-center'>
